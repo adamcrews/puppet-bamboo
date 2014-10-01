@@ -1,10 +1,58 @@
+2014-10-01 06:19:26 -0700 Adam Crews 
+
+	* Update travis to use strict vars (HEAD, update_metadata)
+
+2014-10-01 14:09:26 +1000 Timothy Mukaibo 
+
+	* Increase version for release (upstream/production, origin/production, production)
+
+2014-10-01 14:05:01 +1000 Timothy Mukaibo 
+
+	* Make specs pass
+
+2014-10-01 13:53:19 +1000 Timothy Mukaibo 
+
+	* Increase the default Bamboo version to 5.6.2
+
+2014-09-06 15:15:03 +1000 Timothy Mukaibo 
+
+	* Refresh service after upgrade
+
 2014-09-01 22:34:04 -0700 Adam Crews 
 
-	* Upgrade bamboo to 5.6.1 (HEAD, bamboo_upgrade)
+	* Upgrade bamboo to 5.6.1
 
 2014-08-29 17:07:59 -0700 Adam Crews 
 
-	* Fix lint errors so travis is happy (origin/travis, travis)
+	* Fix lint errors so travis is happy
+
+2014-08-29 16:56:50 -0700 Adam Crews 
+
+	* Updates to travis config, added sane exclude matrix
+
+2014-08-29 16:44:44 -0700 Adam Crews 
+
+	* Fix PG user bug
+
+2014-08-29 16:37:23 -0700 Adam Crews 
+
+	* Fix permissions on the tar deploy
+
+2014-08-28 11:05:54 +1000 Timothy Mukaibo 
+
+	* Add build status to readme
+
+2014-08-28 10:40:04 +1000 Timothy Mukaibo 
+
+	* Add travis support
+
+2014-09-01 22:34:04 -0700 Adam Crews 
+
+	* Upgrade bamboo to 5.6.1 (bamboo_upgrade)
+
+2014-08-29 17:07:59 -0700 Adam Crews 
+
+	* Fix lint errors so travis is happy (travis)
 
 2014-08-29 16:56:50 -0700 Adam Crews 
 
@@ -20,11 +68,15 @@
 
 2014-08-28 11:05:54 +1000 Timothy Mukaibo 
 
-	* Add build status to readme (origin/production, origin/HEAD, production)
+	* Add build status to readme
 
 2014-08-28 10:40:04 +1000 Timothy Mukaibo 
 
 	* Add travis support
+
+2014-08-28 10:36:31 +1000 Timothy Mukaibo 
+
+	* Incremented versions to prepare for next release (upstream/release_1_6, origin/release_1_6)
 
 2014-08-27 16:53:09 -0700 Adam Crews 
 
@@ -36,7 +88,7 @@
 
 2014-07-31 16:27:49 +1000 Timothy Mukaibo 
 
-	* Update version for release
+	* Update version for release (tag: v1.5.0)
 
 2014-07-26 10:39:38 -0700 Adam Crews 
 
@@ -60,7 +112,7 @@
 
 2014-07-22 08:07:16 +1000 Timothy Mukaibo 
 
-	* Replace Modulefile with metadat.json
+	* Replace Modulefile with metadat.json (tag: v1.1)
 
 2014-07-22 07:58:09 +1000 Timothy Mukaibo 
 
@@ -96,7 +148,7 @@
 
 2014-07-12 17:46:31 +1000 Timothy Mukaibo 
 
-	* Add modulefile
+	* Add modulefile (tag: v1.0)
 
 2014-07-12 17:39:24 +1000 Timothy Mukaibo 
 
